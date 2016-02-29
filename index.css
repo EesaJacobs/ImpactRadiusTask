@@ -1,0 +1,19 @@
+html, body{
+	height:100%;
+}
+
+#content{
+	height: 40%;
+}
+
+#output{
+	font-size:11px;
+
+	overflow:scroll; 
+	height: 50%;
+	background-color: #9E9E9E;
+}
+
+.input{
+	width: 200px;
+}
